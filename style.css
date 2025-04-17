@@ -55,8 +55,8 @@ img {
   border-radius: 3em;
   cursor: pointer;
 }
-.hide {
-  display: none;
+.win {
+  border: 2px solid #00ff00;
 }
 @media only screen and (max-width: 768px) {
   .slider-game {
